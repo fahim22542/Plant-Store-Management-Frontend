@@ -1,2 +1,2 @@
-# Plant-Store-Management-Frontend
+# CSE471
 Plant Store Management System Frontend
